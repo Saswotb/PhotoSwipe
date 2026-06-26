@@ -78,10 +78,6 @@ The app requests access to the photo library so it can show and manage your phot
 - Deleted photos are removed from the actual Photos library.
 - If the user grants limited access, only the visible subset of photos will be available.
 
-## Build / CI
-
-The repository includes a Bitrise configuration in `bitrise.yml` for running tests in CI.
-
 ## Contributing
 
 Contributions are welcome.
