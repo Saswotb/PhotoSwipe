@@ -10,21 +10,6 @@ It uses a Tinder-style swipe interface:
 
 When you finish reviewing your library, the app shows a summary of how many photos you kept and deleted.
 
-## Screenshots
-
-Add a few screenshots here once you have them, for example:
-
-- Main swipe screen
-- Permission denied screen
-- Summary screen
-
-Example Markdown:
-
-```md
-![Main screen](screenshots/main-screen.png)
-![Summary screen](screenshots/summary-screen.png)
-```
-
 ## Features
 
 - Requests access to your photo library on launch
@@ -92,6 +77,3 @@ If you want to improve the app, a good place to start is:
 
 Before submitting changes, make sure the app still builds and the swipe flow works correctly.
 
-## License
-
-No license file is included yet. Add one if you plan to publish the project publicly.
